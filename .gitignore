@@ -2,3 +2,6 @@
 experiments/
 fashionmnist/
 kaggle.json
+**/.DS_Store
+**/.idea
+**/__pycache__/
